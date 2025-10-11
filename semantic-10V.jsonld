@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Collection",
+  "name": "Символы системы 10V",
+  "description": "Визуальные и концептуальные артефакты, отражающие ценностные координаты и базовые понятия в модели 10V.",
+  "creator": {
+    "@type": "Person",
+    "name": "Борис Майоров"
+  },
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "hasPart": [
+    {
+      "@type": "ImageObject",
+      "name": "D2025",
+      "description": "Ценностный символ: достоинство",
+      "contentUrl": "10V/D2025.jpg",
+      "encodingFormat": "image/jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "Safety50",
+      "description": "Ценностный символ: безопасность",
+      "contentUrl": "10V/Safety50.png",
+      "encodingFormat": "image/png"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "Foundation",
+      "description": "Базовое понятие: основание",
+      "contentUrl": "base/Foundation.png",
+      "encodingFormat": "image/png"
+    },
+    {
+      "@type": "ImageObject",
+      "name": "Context",
+      "description": "Базовое понятие: контекст",
+      "contentUrl": "base/Context.svg",
+      "encodingFormat": "image/svg+xml"
+    }
+  ]
+}
