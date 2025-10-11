@@ -21,8 +21,9 @@ h1 {
   padding: 1em;
   border: 1px solid #444;
 }
-.artifact img {
-  margin: 0.5em 0;
-  width: 100px;
-  height: 100px;
+.artifact img.small {
+  width: auto;
+  height: auto;
+  max-width: 100%;
 }
+
